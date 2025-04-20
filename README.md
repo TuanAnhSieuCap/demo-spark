@@ -4,7 +4,7 @@
 🎓 **Course:** Big Data & NoSQL Systems  
 👨‍💻 **Technology:** Apache Spark, PySpark, Jupyter Notebook  
 📁 **File:** `REPORT_GROUP5_BIGDATA_NOSQL_APACHESPARK.ipynb`  
-📁 **Data:** [NYC Taxi Trip](https://drive.google.com/file/d/1bsvun6cXaFef6qMIk3akf_xk_XUWWSu3/view)
+📁 **Data:** [NYC Taxi Trip](https://drive.google.com/file/d/1bsvun6cXaFef6qMIk3akf_xk_XUWWSu3/view) (8,4Gb)
 
 ---
 
