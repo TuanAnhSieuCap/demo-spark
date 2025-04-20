@@ -4,6 +4,7 @@
 🎓 **Course:** Big Data & NoSQL Systems  
 👨‍💻 **Technology:** Apache Spark, PySpark, Jupyter Notebook  
 📁 **File:** `REPORT_GROUP5_BIGDATA_NOSQL_APACHESPARK.ipynb`
+📁 **Data:** 
 
 ---
 
@@ -54,5 +55,3 @@ Dự án này thực hiện phân tích tập dữ liệu **NYC Taxi Trips** b�
 - Vũ Dức Duy
 
 ---
-## Dữ liệu
-- NYC Taxi Data
