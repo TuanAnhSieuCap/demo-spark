@@ -20,23 +20,16 @@ Dự án này thực hiện phân tích tập dữ liệu **NYC Taxi Trips** b�
 - Jupyter Notebook
 - Python 3
 - NYC Taxi Dataset (CSV)
-- Google Colab hoặc Spark Local
 
 ---
 
 ## 🧠 Nội dung chính
 
-1. **Giới thiệu về Apache Spark**
-2. **Khám phá dữ liệu**
-3. **Xử lý dữ liệu thiếu (`null`)**
-   - Điền mode hoặc mean
-4. **Ép kiểu dữ liệu (Data Type Casting)**
-5. **Phân tích dữ liệu theo thời gian**
-   - Trích xuất `year`, `month`
-   - Tính `monthly revenue`
-6. **Trực quan hóa kết quả**
-7. **So sánh các abstraction trong Spark:**  
-   - RDD, DataFrame, Dataset
+1. **Khám phá dữ liệu**
+2. **Xử lý dữ liệu thiếu (`null`)**
+3. **Ép kiểu dữ liệu (Data Type Casting)**
+4. **Phân tích dữ liệu theo thời gian**
+5. **Trực quan hóa kết quả**
 
 ---
 
