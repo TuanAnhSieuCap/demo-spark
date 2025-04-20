@@ -42,9 +42,9 @@ Dự án này thực hiện phân tích tập dữ liệu **NYC Taxi Trips** b�
 ## 📈 Kết quả phân tích
 
 - Doanh thu taxi theo tháng
-- Tần suất sử dụng các mã RatecodeID
-- Trực quan hóa phân bố dữ liệu
-- Tổng hợp giá trị thiếu từng cột
+- Số chuyến dài hơn 10km theo tháng (Năm 2024)
+- Tổng tiền kiếm được so với số chuyến đi mỗi tháng (năm 2024)
+- Giá cước trung bình cho năm (Ngày thường vs. Cuối tuần / Lễ)
 
 ---
 ## 👥 Thành viên nhóm
